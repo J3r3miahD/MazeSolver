@@ -1,0 +1,1 @@
+The program uses breath first search to traverse through a maze represented by a matrix. Ones represents the maze path and zeros represent obstacles. The program returns if there is a feasible path from start to finish and the coordinates of the path. 
